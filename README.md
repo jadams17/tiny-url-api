@@ -1,3 +1,3 @@
-# Strapi application
+API to go with [https://github.com/jadams17/tiny-url] and built using Strapi. 
 
-A quick description of your strapi application
+Database is used to hold the originalURL and newURL. 
